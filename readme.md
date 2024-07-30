@@ -5,6 +5,8 @@
 - color
 - border 
 - font size
+- margin
+- padding
 
 2 . about
 - welcome to about page
@@ -12,6 +14,8 @@
 - color
 - image
 - font size
+- margin
+- padding
 
 3 . Contact Us
 - welcome to contact us
@@ -19,3 +23,5 @@
 - color
 - images
 - font size
+- margin
+- padding
